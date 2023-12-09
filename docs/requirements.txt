@@ -1,2 +1,3 @@
 six
 recommonmark
+sphinx_tabs
